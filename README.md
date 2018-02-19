@@ -24,6 +24,4 @@ of raw (`socket.SOCK_RAW`) sockets so sudo is required when running.
 
 Example usage:
 
-.. code-block:: bash
-
    $ sudo py-traceroute google.com
